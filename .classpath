@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_301"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/apache-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/apache-commons.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/hibernate-core-4.2.4.final.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/workstation/workspace-java/java-sabir/lib/apache-commons-net.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
