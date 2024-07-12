@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Hello World from ubuntu");
 		System.out.println("Hello World from MS");
-		System.out.println("Hello World from MS");
+		System.out.println("Hello World from Main");
 	}
 
 }
